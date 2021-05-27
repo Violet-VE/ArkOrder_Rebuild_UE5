@@ -1,0 +1,7 @@
+*.sln
+/.vs
+/Binaries
+/DerivedDataCache
+/Intermediate
+/ArkOrder_Rebuild.sln
+*.log
